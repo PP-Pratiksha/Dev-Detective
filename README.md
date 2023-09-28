@@ -32,4 +32,7 @@ GitHub Profile Finder offers a dark mode to cater to your personal preferences. 
 4. The application will fetch and display the user's information.
 5. Enjoy the dark or light mode as per your choice using the mode toggle button.
 
+![image](https://github.com/PP-Pratiksha/Dev-Detective/assets/117968440/7e49aa58-2d1a-428f-ba42-9736af4dfc0b)
+
+
 Explore GitHub profiles with ease using GitHub Profile Finder!
